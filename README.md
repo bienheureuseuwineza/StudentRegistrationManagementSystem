@@ -43,6 +43,4 @@ Note:
 - Testing:
   Utilize the provided Postman collection to test the system's functionality and endpoints.
 
----
 
-Feel free to customize this README according to your specific project details and requirements.
